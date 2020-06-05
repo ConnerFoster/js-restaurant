@@ -1,0 +1,16 @@
+body {
+    background-image: url(home-image.jpeg);
+    background-size: cover;
+}
+
+.tabs {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-top: 3em;
+}
+
+li {
+    display: inline;
+    margin-right: 1em;
+}
